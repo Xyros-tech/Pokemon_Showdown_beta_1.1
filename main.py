@@ -6,6 +6,7 @@ import random
 from logic import Wizard
 from logic import Fighter
 print("Hello Umut Hocam:)")
+print("Hello İhsan")
 # Bot için niyetleri (intents) ayarlama
 intents = discord.Intents.default()  # Varsayılan ayarların alınması
 intents.messages = True              # Botun mesajları işlemesine izin verme
